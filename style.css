@@ -1,3 +1,4 @@
 tr.buttons {background-color: red;} {width: 800px;}
-table.body {background-color: gainsboro;}
+body {background-color: gainsboro;}
+h1 {font-family: Helvetica;}
 p {font-family: Helvetica;}
