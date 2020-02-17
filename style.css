@@ -1,4 +1,6 @@
 tr.buttons {background-color: red;} {width: 800px;}
 body {background-color: gainsboro;}
 h1 {font-family: Helvetica;}
+h2 {font-family: Helvetica;}
 p {font-family: Helvetica;}
+a:link {text-decoration: none;}
